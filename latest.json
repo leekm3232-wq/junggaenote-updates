@@ -1,0 +1,19 @@
+{
+  "packageName": "kr.junggaenote.app",
+  "versionCode": 29,
+  "versionName": "0.6.11",
+  "minSdk": 29,
+  "notes": "고객 누적 노트와 기존 기능 유지. 간편 시작 설치, 새 버전 자동 확인·Wi-Fi 다운로드 및 앱 내 업데이트 연결.",
+  "artifacts": {
+    "arm64-v8a": {
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.11/junggaenote-0.6.11-arm64-v8a.apk",
+      "sha256": "5416d409a42a0f1de4547fb7714ef928982a890a42d6f4cd9a9d3261816ee04b",
+      "size": 92534361
+    },
+    "x86_64": {
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.11/junggaenote-0.6.11-x86_64.apk",
+      "sha256": "72a6ca9c5cfd0d3eac4d273df1757b70d71a9a323a29ee61de3a911d34bb15ee",
+      "size": 90601638
+    }
+  }
+}
