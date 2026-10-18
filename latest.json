@@ -1,19 +1,19 @@
 {
   "packageName": "kr.junggaenote.app",
-  "versionCode": 33,
-  "versionName": "0.6.15",
+  "versionCode": 34,
+  "versionName": "0.6.16",
   "minSdk": 29,
-  "notes": "시작 화면을 AI 분석 대기에서 분리하고, 메모리 대기 중에도 고객·물건·기존 기록을 볼 수 있도록 개선했습니다.",
+  "notes": "로컬 AI 메모리 보호 강화: 큰 모델의 사전 실행 제한, 앱 프로세스 PSS 감시 및 협력적 중단, 작은 모델 준비와 기존 화면·데이터 유지.",
   "artifacts": {
     "arm64-v8a": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.15/junggaenote-0.6.15-arm64-v8a.apk",
-      "sha256": "fbda27640c812e9ed95845ca84bbd60587893541085958700b5e79f44d26696b",
-      "size": 92570197
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.16/junggaenote-0.6.16-arm64-v8a.apk",
+      "sha256": "ceaca9f43d0f40779882d88c76195528a7c4a33f792d8f23c67086f42a8a40cf",
+      "size": 92570253
     },
     "x86_64": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.15/junggaenote-0.6.15-x86_64.apk",
-      "sha256": "791ad8f398e9edab355b8dc85e4252614e28e8e37e2207c42a4d30f88b49382c",
-      "size": 90637474
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.16/junggaenote-0.6.16-x86_64.apk",
+      "sha256": "f3359d2bd545f32d3754b5e8a4f21e238aedcc73daf68eab8cbdfb74df4b4e56",
+      "size": 90637530
     }
   }
 }
