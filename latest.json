@@ -1,19 +1,19 @@
 {
   "packageName": "kr.junggaenote.app",
-  "versionCode": 35,
-  "versionName": "0.6.17",
+  "versionCode": 36,
+  "versionName": "0.6.18",
   "minSdk": 29,
-  "notes": "휴대폰 보호 우선 수정: 로컬 AI 실행·자동 모델 준비를 기본 중지하고, 분석 대기열에서 전체 통화 원문을 반복 적재하던 조회를 ID 목록 + 한 건씩 조회로 변경했습니다.",
+  "notes": "화면 캡처 기본 허용과 앱 진입 시 자동 업데이트 확인·다운로드를 적용했습니다. 기존 휴대폰 보호 모드와 데이터는 유지합니다.",
   "artifacts": {
     "arm64-v8a": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.17/junggaenote-0.6.17-arm64-v8a.apk",
-      "sha256": "2f24fdc9a94b0ea80f16b6f300c5883a4adcc5dbdff6e5f0dda9ea69cd1927a6",
-      "size": 92570625
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.18/junggaenote-0.6.18-arm64-v8a.apk",
+      "sha256": "01ff706ffe80763174d3d936cef0faf4bb2a04c905c38a37cc040ee2519bd9c8",
+      "size": 92570665
     },
     "x86_64": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.17/junggaenote-0.6.17-x86_64.apk",
-      "sha256": "4234f4d9bbe6ed92761828bc5190f7bd05884e877700261d4af9ee9f00cfcc07",
-      "size": 90637902
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.18/junggaenote-0.6.18-x86_64.apk",
+      "sha256": "c0addb8070f16f0b5184848064147a475da654648da2ec264f22987b7f0caaf6",
+      "size": 90637942
     }
   }
 }
