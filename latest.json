@@ -1,19 +1,19 @@
 {
   "packageName": "kr.junggaenote.app",
-  "versionCode": 31,
-  "versionName": "0.6.13",
+  "versionCode": 32,
+  "versionName": "0.6.14",
   "minSdk": 29,
-  "notes": "처리 대상을 전체·자동·직접 선택으로 나누고 대상 확인·확정 단계를 추가했습니다. 요약이 메모리에 막혀도 다음 녹음의 텍스트 변환은 계속됩니다.",
+  "notes": "비서실장·별빛꿈방처럼 앱이 HTTPS로 직접 다운로드하고 검증 후 Android 설치 화면으로 연결하도록 변경했습니다.",
   "artifacts": {
     "arm64-v8a": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.13/junggaenote-0.6.13-arm64-v8a.apk",
-      "sha256": "aacb551942ed45323b73342446fdf43a307496ee850ad8cd776b9f411cc9dc2a",
-      "size": 92570197
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.14/junggaenote-0.6.14-arm64-v8a.apk",
+      "sha256": "38117e10c8a60ad8697b665e35bd17ce476b9a7a560bd29f144f837c193d967f",
+      "size": 92570209
     },
     "x86_64": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.13/junggaenote-0.6.13-x86_64.apk",
-      "sha256": "e97c9096c87a48772363b52b0882c2039f2b0d5c4b62f1eb59ea87835b1e5384",
-      "size": 90637474
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.14/junggaenote-0.6.14-x86_64.apk",
+      "sha256": "3bccfe83039855afc6a589aea3fe18950760ec38096b2cc1e6c8728e1c67c1d7",
+      "size": 90637486
     }
   }
 }
