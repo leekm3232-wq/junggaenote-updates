@@ -1,19 +1,19 @@
 {
   "packageName": "kr.junggaenote.app",
-  "versionCode": 30,
-  "versionName": "0.6.12",
+  "versionCode": 31,
+  "versionName": "0.6.13",
   "minSdk": 29,
-  "notes": "마이크 받아쓰기와 음성 답변을 추가했습니다.",
+  "notes": "처리 대상을 전체·자동·직접 선택으로 나누고 대상 확인·확정 단계를 추가했습니다. 요약이 메모리에 막혀도 다음 녹음의 텍스트 변환은 계속됩니다.",
   "artifacts": {
     "arm64-v8a": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.12/junggaenote-0.6.12-arm64-v8a.apk",
-      "sha256": "6d693239a0bd1695abefc2f9287e12bd7345a9f247fc0923d36683e0f5424487",
-      "size": 92552325
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.13/junggaenote-0.6.13-arm64-v8a.apk",
+      "sha256": "aacb551942ed45323b73342446fdf43a307496ee850ad8cd776b9f411cc9dc2a",
+      "size": 92570197
     },
     "x86_64": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.12/junggaenote-0.6.12-x86_64.apk",
-      "sha256": "7235b34338a98f8e91fb563aa5ef838100c52300e8b2ad8c77ed0e719ef6f7e8",
-      "size": 90619602
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.13/junggaenote-0.6.13-x86_64.apk",
+      "sha256": "e97c9096c87a48772363b52b0882c2039f2b0d5c4b62f1eb59ea87835b1e5384",
+      "size": 90637474
     }
   }
 }
