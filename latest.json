@@ -1,19 +1,19 @@
 {
   "packageName": "kr.junggaenote.app",
-  "versionCode": 32,
-  "versionName": "0.6.14",
+  "versionCode": 33,
+  "versionName": "0.6.15",
   "minSdk": 29,
-  "notes": "비서실장·별빛꿈방처럼 앱이 HTTPS로 직접 다운로드하고 검증 후 Android 설치 화면으로 연결하도록 변경했습니다.",
+  "notes": "시작 화면을 AI 분석 대기에서 분리하고, 메모리 대기 중에도 고객·물건·기존 기록을 볼 수 있도록 개선했습니다.",
   "artifacts": {
     "arm64-v8a": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.14/junggaenote-0.6.14-arm64-v8a.apk",
-      "sha256": "38117e10c8a60ad8697b665e35bd17ce476b9a7a560bd29f144f837c193d967f",
-      "size": 92570209
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.15/junggaenote-0.6.15-arm64-v8a.apk",
+      "sha256": "fbda27640c812e9ed95845ca84bbd60587893541085958700b5e79f44d26696b",
+      "size": 92570197
     },
     "x86_64": {
-      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.14/junggaenote-0.6.14-x86_64.apk",
-      "sha256": "3bccfe83039855afc6a589aea3fe18950760ec38096b2cc1e6c8728e1c67c1d7",
-      "size": 90637486
+      "url": "https://github.com/leekm3232-wq/junggaenote-updates/releases/download/v0.6.15/junggaenote-0.6.15-x86_64.apk",
+      "sha256": "791ad8f398e9edab355b8dc85e4252614e28e8e37e2207c42a4d30f88b49382c",
+      "size": 90637474
     }
   }
 }
